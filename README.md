@@ -49,7 +49,7 @@ This project monitors weather conditions by collecting temperature, humidity, an
 
 Below is the circuit used for this project:
 
-![Circuit Diagram](IMG-20251017-WA0014.jpg)
+![Circuit Diagram](Circuit diagram.jpg)
 
 ---
 
